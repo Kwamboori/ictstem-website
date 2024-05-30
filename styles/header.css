@@ -1,0 +1,86 @@
+.header {
+    height: 70px;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    margin: none;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+.website-title{
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    padding-right: 200px;
+    font-size: 50px;
+    color: rgb(27, 50, 103);
+    font-family: jaro;
+}
+.news-events { 
+    margin-top: 20px;
+        margin-bottom: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 50px;
+        padding-right: 50px;
+        margin-right: 20px;
+        border-radius: 20px;
+        color: white;
+        background-color: rgb(27, 50, 103);
+        transition: 0.20s;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .news-events:hover {
+    background-color: rgb(155, 201, 211);
+    }
+    .sections {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-right: 20px;
+        border-radius: 20px;
+        color: white;
+        background-color: rgb(27, 50, 103);
+        transition: 0.20s;
+        font-size: 12px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .sections:hover {
+        background-color: rgb(155, 201, 211);
+        color: black;
+    }
+    .teachers {
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        margin-right: 20px;
+        border-radius: 20px;
+        color: white;
+        background-color: rgb(27, 50, 103);
+        transition: 0.20s;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    .teachers:hover{
+        background-color: rgb(155, 201, 211);
+        color: white;
+    }
+
+
+.text-decoration
+{text-decoration: none;
+    color: rgb(255, 255, 255);
+
+}
+.text-decoration:hover{
+color: black;
+}
+
+.web-dec {
+    text-decoration: none;
+    color: rgb(27, 50, 103);
+    font-family: jaro;
+}
+
+  
